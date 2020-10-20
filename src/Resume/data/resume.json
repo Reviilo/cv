@@ -1,11 +1,7 @@
 {
   "head": {
     "name": "Oliver Ramirez",
-    "carrier": "Front End",
-    "img": {
-      "link": "",
-      "alt": ""
-    }
+    "carrier": "Front End"
   },
   "card": {
     "email": "oliiv@outlook.com",
