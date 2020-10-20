@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 function Head(props) {
-  const { name, carrier } = props.head
+  const { name, carrier, email, mobil } = props.head
   return (
     <HeadContainer>
       <ContainerText>
@@ -10,8 +10,8 @@ function Head(props) {
         <h2>{carrier}</h2>
       </ContainerText>
       <Card>
-        <div>oliiv@outlook.com</div>
-        <div>+5491124541234</div>
+        <div>{email}</div>
+        <div>{mobil}</div>
       </Card>
     </HeadContainer>
   )

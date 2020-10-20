@@ -13,13 +13,13 @@ const Projects = React.lazy(() => import('../components/Projects'))
 const Footer = React.lazy(() => import('../components/Footer'))
 
 function Resume() {
-  const { head, card, howIAm, skills, experiences, educations, projects, social } = data
+  const { head, howIAm, skills, experiences, educations, projects, social } = data
 
   return (
     <React.Suspense fallback={<Loader />}>
       <BackgroundContainer>
         <Container>
-          <Head head={head} card={card} />
+          <Head head={head} />
           <Separator>
             <div>
               <HowIAm howIAm={howIAm} />
