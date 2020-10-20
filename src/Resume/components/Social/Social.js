@@ -12,9 +12,10 @@ function Social(props) {
           const { media, description, link, srcImg } = so
           return (
             <ItemContainer key={Math.random()}>
-              <a href={link}>
+              <Link href={link}>
                 <ImgMedia src={srcImg} alt={`${media} ${description}`} />
-              </a>
+                <span>{description}</span>
+              </Link>
             </ItemContainer>
           )
         })}
@@ -46,6 +47,19 @@ const ItemContainer = styled.div`
 
 const ContainerSocial = styled.div`
   display: flex;
+  flex-direction: column;
+  flex-flow: column wrap;
+`
+
+const Link = styled.a`
+  display: flex;
+  margin-bottom: 20px;
+  /* flex-direction: column;
+  flex-flow: column wrap; */
+  /* align-items: center; */
+  span {
+    margin-left: 15px;
+  }
 `
 
 export default Social
