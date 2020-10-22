@@ -18,8 +18,8 @@ function Experiences(props) {
             <ExperienceContainer key={Math.random()}>
               <SpanStyled>{company}</SpanStyled>
               <ContainerTitleDescription>
-                <span>As a {title}</span>
-                <span>from {date}</span>
+                <span>{title}</span>
+                <span>{date}</span>
               </ContainerTitleDescription>
               {descrip.map(text => (
                 <p>{text}</p>

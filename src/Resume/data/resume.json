@@ -7,8 +7,8 @@
     "mobil": "+49 1511 2461735"
   },
   "howIAm": {
-    "title": "How I am",
-    "description": "I'm a fast thinker solutions, I use my systems engineering skills to realize complex and scalable projects.\n I am a working self driven and autonomously. As self-educated person I learn fast and understand complex matters."
+    "title": "Who I am",
+    "description": "I'm a fast thinker in solutions. I use my system engineering skills to realize complex and scalable projects.\n I am working self driven and autonomously. As a self-educated person I learn fast and understand complex matters."
   },
   "skills": {
     "title": "Skills",
@@ -26,15 +26,15 @@
     "items": [
       {
         "title": "Front End Engineer",
-        "date": "March 2019 to Actual",
+        "date": "March 2019 - September 2020",
         "company": "Wenance",
-        "description": "Solution thinker and provider, with my engineering capabilities complex projects in the Financial industry will be brought to life.\n In internal projects, applications and multiple lenguages are used like React, Redux, Node, JS, Styles CSS // Sass with styled components, API REST."
+        "description": "Solution thinker and provider. With my engineering capabilities complex projects in the Financial industry will be brought to life. In internal projects client identifying data will be processed. To fulfill the requirents of these projects, applications and multiple languages are used like: \n React, Redux, Node, JS, Styles CSS // Sass with styled components, API REST."
       },
       {
         "title": "UI/UX Developer",
-        "date": "February 2016 - Febrary 2019",
+        "date": "February 2016 - February 2019",
         "company": "Eulas S.A.",
-        "description": "Maintaining the design and functionality of e-commerces.\n The business was located in United States of America, Projects were realized with the following companies: Ascena group, Stadium Goods, Children Place.\n The following technologies were used for the projects: HTML5, CSS3, JS, AJAX, JQuery, Sass, Node.js, Express, React, Redux, OOP, Functional Programming, Jira, Scram, CMS, Webpack, Grunt.\n Some examples of my work with Eulas:  https://www.louandgrey.com/ https://www.anntaylor.com/ \n Kaban and Scrum as agile working methos are used in the projects above."
+        "description": "Maintaining the design and functionality of e-commerce. The business was located in United States of America. Projects were realized with the following companies: Ascena Group, Stadium Goods, Children Place. The following technologies were used for the projects: \n HTML5, CSS3, JS, AJAX, JQuery, Sass, Node.js, Express, React, Redux, OOP, Functional Programming, Jira, CMS, Webpack, Grunt.\n Some examples of my work with Eulas: \n  https://www.louandgrey.com/ \n https://www.anntaylor.com/ \n Kaban and Scrum as agile working methods are used in the projects above."
       }
     ]
   },
@@ -44,7 +44,7 @@
       {
         "school": "Escuela Colombiana de Carreras Industriales",
         "title": "Engineering, System Engineering",
-        "description": "3 semesters of studies to reach the engineering degree, The content of the studies were programming algorithms, functions, algebra, physics, fundamentals of engineering.",
+        "description": "3 semesters of studies to reach the engineering degree. The content of the studies were programming algorithms, functions, algebra, physics, fundamentals of engineering.",
         "dates": "2012 - 2014"
       },
       {
@@ -61,12 +61,12 @@
       {
         "title": "Rev Earth",
         "url": "https://rev.earht",
-        "description": "Connect ideas between solutions appling knowlogies with everybody."
+        "description": "It is connecting people through ideas."
       },
       {
         "title": "CRM Seller",
         "url": "https://crm-seller-front.vercel.app/login",
-        "description": "It is a project created for companies how want to see the follow-up of their sellers, follow the stock of the proudctos and see the sales orders."
+        "description": "It is a system where companies can add, delete and manage their sellers. On the other hand the sellers can add, delete and manage the products of the company and the customers."
       }
     ]
   },
