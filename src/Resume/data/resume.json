@@ -4,7 +4,7 @@
     "carrier": "Front End",
     "email": "oliiv@outlook.com",
     "skype": "live:oliverramirez.1",
-    "mobil": "+49 1511 2461735"
+    "mobil": "+54 911 2454 1234"
   },
   "howIAm": {
     "title": "Who I am",
@@ -13,8 +13,8 @@
   "skills": {
     "title": "Skills",
     "skills": [
-      { "name": "React", "time": "4 years" },
-      { "name": "Redux", "time": "4 years " },
+      { "name": "React", "time": "5 years" },
+      { "name": "Redux", "time": "5 years " },
       { "name": "JavaScript", "time": "5 years" },
       { "name": "REST API", "time": "5 years" },
       { "name": "Mongo db", "time": "3 years" },
@@ -61,12 +61,17 @@
       {
         "title": "Rev Earth",
         "url": "https://rev.earht",
-        "description": "It is connecting people through ideas."
+        "description": "The Idea of this web is to connect people and information."
       },
       {
         "title": "CRM Seller",
         "url": "https://crm-seller-front.vercel.app/login",
         "description": "It is a system where companies can add, delete and manage their sellers. On the other hand the sellers can add, delete and manage the products of the company and the customers."
+      },
+      {
+        "title": "Tic Tac Toe",
+        "url": "https://tic-tac-toe.rev.earth/",
+        "description": "Tic Tac Toe game with minmax and alpha beta logic"
       }
     ]
   },
